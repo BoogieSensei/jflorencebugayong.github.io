@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #222;
+}
+
+/* HERO SECTION */
+.hero {
+    background: #222;
+    color: #fff;
+    padding: 70px 20px;
+    text-align: center;
+}
+
+/* GENERAL SECTIONS */
+.section {
+    padding: 40px 20px;
+    max-width: 900px;
+    margin: auto;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+/* SERVICE CARDS */
+.cards {
+    display: grid;
+    gap: 20px;
+}
+
+.card {
+    background: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* CONTACT SECTION */
+.contact p {
+    margin: 6px 0;
+}
